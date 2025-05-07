@@ -9,6 +9,10 @@ public class Menu {
         Scanner scanner = new Scanner(System.in);
         int opcao;
 
+        //*Testes do modelo de dados*//
+        
+        String v1 = new VelaComum(1, Vela 500g, 1, 40.00f, "Velacomum";)
+        
         do {
             System.out.println(Cores.ANSI_PURPLE_BACKGROUND_BRIGHT + Cores.TEXT_WHITE + "*******************************************" + Cores.TEXT_RESET);
             System.out.println(Cores.TEXT_CYAN + "                                           ");
